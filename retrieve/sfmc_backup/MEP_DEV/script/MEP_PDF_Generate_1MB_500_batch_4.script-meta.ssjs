@@ -1,4 +1,3 @@
-
 Platform.Load('core', '1.1');
 try {
     var apiUrl = 'https://qncnkul0n6.execute-api.eu-north-1.amazonaws.com/generate-pdf';

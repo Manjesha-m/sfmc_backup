@@ -1,4 +1,4 @@
 SELECT
     *
 FROM
-    Test_DE_Automation a
+    Test_DE_Automation
