@@ -1,0 +1,13 @@
+{
+  "sfmc_backup/MEP_DEV": {
+    "automation": [
+      "Sample_Automation1"
+    ],
+    "script": [
+      "MEP_PDF_Generate_1MB_500_batch_3","MEP_PDF_Generate_1MB_500_batch_4"
+    ],
+    "query": [
+      "Test_DE_Automation"
+    ]
+  }
+}
