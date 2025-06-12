@@ -1,13 +1,13 @@
 {
   "sfmc_backup/MEP_DEV": {
     "automation": [
-      "Sample_Automation1"
+      "Sample_Automation1.automation-meta.json"
     ],
     "script": [
-      "MEP_PDF_Generate_1MB_500_batch_3","MEP_PDF_Generate_1MB_500_batch_4"
+      "MEP_PDF_Generate_1MB_500_batch_3.script-meta.ssjs","MEP_PDF_Generate_1MB_500_batch_4.script-meta.ssjs"
     ],
     "query": [
-      "Test_DE_Automation"
+      "Test_DE_Automation.query-meta.sql"
     ]
   }
 }
