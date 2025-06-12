@@ -1,5 +1,8 @@
 {
   "sfmc_backup/MEP_DEV": {
+    "dataExtension": [
+      "Test_DE_Automation"
+    ],
     "automation": [
       "Sample_Automation1.automation-meta.json"
     ],
